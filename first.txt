@@ -1,7 +1,3 @@
 
-<<<<<<< HEAD
 some changes.
 second commit
-=======
-some changes.
->>>>>>> parent of ce0ebbf... Revert "second commit"
